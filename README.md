@@ -16,3 +16,7 @@ Main features:
 - Fully compatible with all editions of Windows 11.
 
 Perfect for users who prefer the speed and convenience of the classic Windows 10 right-click menu.
+
+
+💻 Update no support win11 25h2 💻
+A PowerShell utility that automates downloading the latest Windows 11 ISO, prepares an installer environment, and launches the upgrade/installation process. The script can optionally attempt to work around strict hardware or TPM/secure-boot checks so the installation can proceed on unsupported hardware.
